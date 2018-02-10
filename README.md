@@ -3,8 +3,7 @@
 
 This library is a thin React Native bridge around iOS: [shashankpali/EZYGradientView](https://github.com/shashankpali/EZYGradientView)
 
-- iOS
-It is a different and unique take on creating gradients and gradients with blur on the iOS platform. The default CAGradientLayer implementation works just fine, but is confusing and gives different results than expected.
+- **iOS**: It is a different and unique take on creating gradients and gradients with blur on the iOS platform. The default CAGradientLayer implementation works just fine, but is confusing and gives different results than expected.
 
 <img src="./assets/hero.png" width="600" height="300">
 
