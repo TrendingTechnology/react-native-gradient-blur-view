@@ -1,19 +1,22 @@
-
 {
   "name": "react-native-gradient-blur-view",
   "version": "0.0.1",
-  "description": "",
+  "description": "React Native: Native Gradient Blur View",
   "main": "RNGradientBlurView.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react-native"
-  ],
-  "author": "",
-  "license": "",
-  "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-  }
+  "keywords": ["react-native"],
+  "author": "Pranav Raj Singh Chauhan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prscX/react-native-gradient-blur-view.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "prettier-pack": "0.0.5"
+  },
+  "peerDependencies": {}
 }
