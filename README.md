@@ -37,6 +37,9 @@ import RNGradientBlurView from 'react-native-gradient-blur-view';
 | `fadeIntensity` | `number` |         | Fade Intensity Value                                                   |  |
 | `blurOpacity`    | `number`     |         | Blur Opacity Value                                        |  |
 
+## TO-DO
+- Android Support
+
 ## Credits
 
 - iOS: [shashankpali/EZYGradientView](https://github.com/shashankpali/EZYGradientView)
