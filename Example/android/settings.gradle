@@ -1,0 +1,5 @@
+rootProject.name = 'Example'
+include ':react-native-gradient-blur-view'
+project(':react-native-gradient-blur-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gradient-blur-view/android')
+
+include ':app'
