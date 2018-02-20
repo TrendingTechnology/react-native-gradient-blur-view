@@ -3,6 +3,13 @@
     <img src="./assets/hero.png" width="800" height="300">
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-native-gradient-blur-view"><img src="http://img.shields.io/npm/v/react-native-gradient-blur-view.svg?style=flat" /></a>
+  <a href="https://github.com/prscX/react-native-gradient-blur-view/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/prscX/react-native-gradient-blur-view#License"><img src="https://img.shields.io/npm/l/react-native-gradient-blur-view.svg?style=flat" /></a>
+</p>
+
+
 # React Native: Native Gradient Blur View
 
 This library is a thin React Native bridge around iOS: [shashankpali/EZYGradientView](https://github.com/shashankpali/EZYGradientView)
